@@ -6,7 +6,6 @@
 ---
 
 ### Table of Contents
-sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [Author Info](#author-info)
